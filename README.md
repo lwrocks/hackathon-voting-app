@@ -1,4 +1,4 @@
-# Smart.Vote
+# Smarter.Vote
 Blockchain based voting application to increase awareness of current legislation by allowing you to make a symbolic vote and comparing the data to actual votes by elected officials and political parties.
 
 <!-- Image? -->
@@ -75,7 +75,7 @@ Host: https://maas-proxy.cfapps.eu10.hana.ondemand.com/d0338c3d-2ef0-4127-b55d-2
 
 
 ## What's Next?
-While we're definitely proud of what we accomplished in less than 36 hours, we have big dreams for Smart.Vote. Some of the future features we envision for this project include:
+While we're definitely proud of what we accomplished in less than 36 hours, we have big dreams for Smarter.Vote. Some of the future features we envision for this project include:
 
 * point 1
 
@@ -84,7 +84,7 @@ While we're definitely proud of what we accomplished in less than 36 hours, we h
 * point 3
 
 
-## The Team Behind Smart.Vote
+## The Team Behind Smarter.Vote
 [Andrej Guran](https://github.com/andrejguran), 
 [Carolin Gümpel](https://github.com/https://github.com/gluecksbaerchi),
 [Ewa Szyszska](https://github.com/EwaSzyszka), 

@@ -86,7 +86,7 @@ While we're definitely proud of what we accomplished in less than 36 hours, we h
 
 ## The Team Behind Smarter.Vote
 [Andrej Guran](https://github.com/andrejguran), 
-[Carolin Gümpel](https://github.com/https://github.com/gluecksbaerchi),
+[Carolin Gümpel](https://github.com/gluecksbaerchi),
 [Ewa Szyszska](https://github.com/EwaSzyszka), 
 [Laura Correa](https://github.com/lcorr8), 
 [Laurel Wright](https://github.com/lwrocks), 
